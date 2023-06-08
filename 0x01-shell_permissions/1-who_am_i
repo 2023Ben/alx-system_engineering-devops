@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod id -un root
+chmod su root
